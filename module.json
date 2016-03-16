@@ -1,0 +1,14 @@
+{
+  "name": "door-indicator",
+  "version": "0.0.0",
+  "bin": "./source",
+  "private": true,
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-drivers": "^1.0.0",
+    "p9813": "~0.0.0",
+    "minar-events": "bridadan/minar-events",
+    "mbed-client": "^1.4.10"
+  }
+}
